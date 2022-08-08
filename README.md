@@ -29,7 +29,7 @@ The objective of the project is to analyze Amazon reviews written by members of 
 
 * SQL PGAdmin example Tables:
 
-![C2](/Resources/1customertablepgadmin.png)
+![C2](/Resources/customertablepgadmin.png)
 
 ![V2](/Resources/4vinetablepgadmin.png)
 
